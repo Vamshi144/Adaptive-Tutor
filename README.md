@@ -91,7 +91,7 @@ The Adaptive AI Tutor offers a transformative learning experience designed to en
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/santhoshkrishna-2004/Adaptive-Tutor.git
+   git clone https://github.com/vamshi-official/Adaptive-Tutor.git
    ```
 
 2. **Navigate to project directory**
